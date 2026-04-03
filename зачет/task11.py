@@ -1,4 +1,3 @@
-nums = int(input())
-sp = []
-nums.pop([-1])
-sp.append()
+nums = [ 1, 3, 6, 0]
+nums.pop()
+print(nums)
